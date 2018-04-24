@@ -1,6 +1,6 @@
 # IP-FY
 Gathers information about a Particular IP address.
-This tool made using https://api.ipdata.co api 
+This tool is made using https://api.ipdata.co api 
 
 ## Installation
 ```bash
