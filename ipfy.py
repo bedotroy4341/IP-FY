@@ -1,9 +1,9 @@
+#!/data/data/com.termux/files/bin/python
 #Importing Modules \(o,,,o)/
 import argparse
 import requests, json
-from sys import argv
-#!/data/data/com.termux/files/bin/python
 import sys
+from sys import argv
 import os
 #Arguments *_*
 
