@@ -9,9 +9,6 @@ apt install python
 ```bash
 pip install requests
 ```
-```bash
-pip install json
-```
 
 ## Usage
 
