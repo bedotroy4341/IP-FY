@@ -46,7 +46,7 @@ try :
 	sys.stdout.flush()
 	a = yellow+bold+"[~]"
 	#Printing,Not Phising ; P
-	print(a,"Target:",data['ip'])
+	#print(a,"Target:",data['ip'])
 	print(a,"ISP:",data['organisation'])
 	print(a,"City:",data['city'])
 	print(a,"Region:",data['region'])
